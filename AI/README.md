@@ -1,4 +1,4 @@
-# Facultad
+# INTELIGENCIA ARTIFICIAL
 Carpeta para recordar las risas que fueron pasar o no pasar la materia de Inteligencia Artificial xd. Como la única actividad práctica fue el proyexto, es lo único que
 se va a encontrar aquí, incluyendo los archivos csv para el entrenamiento y los test. 
 El proyecto consiste en: 
